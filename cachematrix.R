@@ -1,10 +1,10 @@
 ## Put comments here that give an overall description of what your
 ## functions do:
-## THe first function "makeCacheMatrix" creates a matrix defined as incoming parameter
+## The first function "makeCacheMatrix" creates a matrix defined as incoming parameter
 ## and a list of functions which allow to manipulate with the matrix 
 ## you defined and also it stores cached value of
 ## an inverse matrix in case it is applicable
-## The second one takes the income matrix and does eihter calculation of inverse or
+## The second one "cacheSolve" takes the income matrix and does eihter calculation of inverse or
 ## call of the function from the list to get and turn back cached inverse 
 
 ## This function creates the list of functions
